@@ -1,8 +1,8 @@
 'use client'
 
-import { Badge } from "@/components/ui/badge"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area"
+import { Badge } from "./ui/badge"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card"
+import { ScrollArea, ScrollBar } from "./ui/scroll-area"
 
 export function Skills() {
   const skillCategories = [
